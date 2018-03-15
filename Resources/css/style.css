@@ -2,6 +2,10 @@
   background-color: black;
 }
 
+body {
+  text-align: center;
+}
+
 h1 {
   color:white;
   font-family: Verdana, sans-serif;
@@ -22,6 +26,7 @@ h1 {
 
 video {
   align-items: center;
+  margin: 0 auto;
 }
 
 .middle {
